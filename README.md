@@ -4,7 +4,7 @@
 
 ## QUESTION: 
 
-** Why in C? Why not just use bash, especially because you don't even use linux api?!**
+**Why in C? Why not just use bash, especially because you don't even use linux api?!**
 
 <br>
 <br>
