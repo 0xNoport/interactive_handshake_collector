@@ -2,6 +2,29 @@
 
 <br>
 
+Important:
+**You have to modify the script. For example does the first script set wlan1 into monitor mode. If you only have wlan0, then you have to modify the script.**
+
+<br>
+
+## Usage:
+
+./1 => Put wlan0 into monitor mode
+
+<br>
+
+./2 => List available wifi networks and enter numer to start capturing handshake and deauthenticating
+
+<br>
+
+./3 => Usually you dont use this manually, you just use ./1 once, then ./2 for each network and ./4 to set wifi card out of monitor mode
+
+<br>
+
+./4 => Delete the newly created interface, so stop monitor mode
+
+<br>
+
 ## QUESTION: 
 
 **Why in C? Why not just use bash, especially because you use linux binaries instead of native functions from linux api?!**
