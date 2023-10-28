@@ -10,19 +10,19 @@
 
 ## Usage:
 
-./1 => Put wlan0 into monitor mode
+./1 => **Puts wlan0 into monitor mode**
 
 <br>
 
-./2 => List available wifi networks and enter numer to start capturing handshake and deauthenticating
+./2 => **List available wifi networks and enter numer to start capturing handshake and deauthenticating**
 
 <br>
 
-./3 => Usually you dont use this manually, you just use ./1 once, then ./2 for each network and ./4 to set wifi card out of monitor mode
+./3 => **Usually you dont use this manually, you just use ./1 once, then ./2 for each network and ./4 to set wifi card out of monitor mode**
 
 <br>
 
-./4 => Delete the newly created interface, so stop monitor mode
+./4 => **Delete the newly created interface, so stop monitor mode**
 
 <br>
 
